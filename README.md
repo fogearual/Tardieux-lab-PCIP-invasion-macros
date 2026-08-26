@@ -13,7 +13,7 @@ Macros :
 Samples : 
 
   - Sample_1.czi = sample czi file from our ivasion assays
-  - result_sample_1.tiff = final QC produced by the invasion assay macro
+  - Results_sample_1.tiff = final QC produced by the invasion assay macro
 
 Results :
 
