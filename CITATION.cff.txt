@@ -4,8 +4,10 @@ title: "Toxoplasma invasion assays — ImageJ macro"
 authors:
   - family-names: "GTAT"
     given-names: "Faraj"
+  - family-names: "TARDIEUX"
+    given-names: "Isabelle"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: "1.0.0"
 date-released: "2026-08-26"
 license: MIT
-# repository-code: "https://github.com/<user>/<repo>"
+# repository-code: "https://github.com/fogearual/Tardieux-lab-PCIP-invasion-macros"
