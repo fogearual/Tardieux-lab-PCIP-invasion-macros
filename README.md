@@ -1,4 +1,4 @@
-# Cell-and-parasite-counting
+# Tardieux-lab-PCIP-invasion-macros
 
 ImageJ/Fiji macros to quantify cells and Toxoplasma gondii invasion from `.czi` images.
 
