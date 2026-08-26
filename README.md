@@ -26,7 +26,7 @@ Results :
 
 ## Input layout
 
-The invasion pipeline detects the folder depth automatically :
+The invasion macro detects the folder depth automatically :
 
 - selected folder/experiment/condition/*.czi = for several experiments
 - selected folder/condition/*.czi = for a single experiment
