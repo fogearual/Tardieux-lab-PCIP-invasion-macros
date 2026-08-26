@@ -86,7 +86,7 @@ The independent unit is the experiment. Error bars in the pooled (total) figures
 
 ## Code valdation macro
 
-The quality control macro randomly picks czi files, produces QC stacks with the exact same process as the invasion assay macro and creates an empty sheet to fill in manual counts, then the sheet computes the automatic-vs-manual error. The stack contains the raw blue channel for manual cell counting, then the raw green channel, raw red channel, and raw merged green + red channels for manual parasite counting, then the auto-counting annotated channels for validation.
+The quality control macro randomly picks czi files (capped at 8 files per condition), produces QC stacks with the exact same process as the invasion assay macro and creates an empty sheet to fill in manual counts, then the sheet computes the automatic-vs-manual error. The stack contains the raw blue channel for manual cell counting, then the raw green channel, raw red channel, and raw merged green + red channels for manual parasite counting, then the auto-counting annotated channels for validation.
 
 ## Citation
 
