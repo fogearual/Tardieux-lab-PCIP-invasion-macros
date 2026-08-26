@@ -17,8 +17,8 @@ Samples :
 
 Results :
 
-  - Invasion_Assay_results.xml = detailed results of all three experiments
-  - Quality_control_results = detailed results of the quality control
+  - Invasion_Assay_results.ods = detailed results of all three experiments
+  - Quality_control_results.ods = detailed results of the quality control
 
 ## Requirements
 
