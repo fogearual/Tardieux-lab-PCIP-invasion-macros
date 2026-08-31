@@ -7,7 +7,7 @@ ImageJ/Fiji macros to quantify cells and Toxoplasma gondii invasion from `.czi` 
 Macros :
   
   - Invasion_assay_macro.ijm = Main assay. Writes a per-image QC stack, CSVs, a formatted workbook and histograms.                   
-  - Code_validation_macro.ijm = Quality control of the automated counts: randomly samples images per experiment, produces QC stacks and
+  - Code_validation_macro.ijm = Quality control of the automated counts : randomly samples images per experiment, produces QC stacks and
                                 an empty sheet to fill in manual counts, then the sheet computes the automatic-vs-manual error.
 
 Samples : 
